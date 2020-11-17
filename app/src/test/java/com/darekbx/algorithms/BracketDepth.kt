@@ -21,7 +21,7 @@ class BracketDepth {
 
     fun solution(s: String): Int {
 
-        
+
 
     }
 }
